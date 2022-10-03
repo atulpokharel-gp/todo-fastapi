@@ -22,7 +22,7 @@ To run this project you would need:
 ```bash
 ./fastapi/Scripts/activate
 ```
-- for window/```linux```
+- for ```window```/```linux```
  Install the required packages
 
 - Install Fastapi
