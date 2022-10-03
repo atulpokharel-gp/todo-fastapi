@@ -10,12 +10,7 @@ To run this project you would need:
  git clone https://github.com/atulpokharel-gp/todo-fastapi.git
 ```
 
-- Create a virtual environment
-
-```python3
-  python3 -m venv env
-```
-### create environment
+- create environment
 ```bash
   python3 -m venv fastapi
 ```
