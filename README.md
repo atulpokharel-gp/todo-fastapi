@@ -55,6 +55,6 @@ uvicorn app:app --reload
 
 - ## contact for more details
 ```
-- atulpokharel12@gmail.com
+## atulpokharel12@gmail.com
 ```
 
