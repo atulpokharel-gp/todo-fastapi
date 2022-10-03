@@ -55,8 +55,6 @@ uvicorn app:app --reload
 
 - ## contact for more details
 ```
-```bash
 - atulpokharel12@gmail.com
 ```
 
-If you want to see behind the scenes regarding the model, we have included the ipynb file.
