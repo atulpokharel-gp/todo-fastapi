@@ -1,4 +1,4 @@
-# NepalisignLanguage
+#FAST api
 
 ## Installation
 
@@ -7,7 +7,7 @@ To run this project you would need:
 - Download/ Clone the project
 
 ```git
-  https://github.com/atulpokharel-gp/NepalisignLanguage.git
+ git clone https://github.com/atulpokharel-gp/todo-fastapi.git
 ```
 
 - Create a virtual environment
@@ -34,8 +34,8 @@ for linux
 ```bash
 pip install fastapi
 ```
-```bash
 - Install an ASGI server
+```bash
 
 pip install "uvicorn[standard]"
 ```
@@ -49,7 +49,7 @@ pip install python-multipart jinja2
 ```bash
 pip install sqlalchemy
 ```
-
+- your program is  ready
 ```bash
 uvicorn app:app --reload
 ```
@@ -57,7 +57,7 @@ uvicorn app:app --reload
 
 ```
 ```
-- ### your program is  ready
+
 - ## contact for more details
 ```
 ```bash
