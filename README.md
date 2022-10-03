@@ -18,7 +18,7 @@ To run this project you would need:
 ```bash
   fastapi\Scripts\activate.bat
 ```
-for linux
+- for linux
 ```bash
 ./fastapi/Scripts/activate
 ```
